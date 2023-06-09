@@ -1,4 +1,5 @@
 import "./styles.css";
+import Navbar from "./components/Navbar";
 import { Route, Routes } from "react-router-dom";
 import Home from "./routes/Home";
 import About from "./routes/About";
@@ -8,7 +9,7 @@ import Contact from "./routes/Contact";
 export default function App() {
   return (
     <div className="App">
-      <h1>Your Code Here</h1>
+      <Navbar />
     </div>
   );
 }
