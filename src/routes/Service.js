@@ -7,7 +7,7 @@ import Trip from "../components/Trip";
 function Service() {
   return (
     <>
-      <h1>Call The Components</h1>
+      <h1>This is Service</h1>
     </>
   );
 }
