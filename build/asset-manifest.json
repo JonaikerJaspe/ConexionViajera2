@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c83f324.chunk.css",
+    "main.js": "/static/js/main.71c5e8af.chunk.js",
+    "main.js.map": "/static/js/main.71c5e8af.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8ed5da37.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8ed5da37.js.map",
+    "static/js/2.379429bc.chunk.js": "/static/js/2.379429bc.chunk.js",
+    "static/js/2.379429bc.chunk.js.map": "/static/js/2.379429bc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9c83f324.chunk.css.map": "/static/css/main.9c83f324.chunk.css.map",
+    "static/js/2.379429bc.chunk.js.LICENSE.txt": "/static/js/2.379429bc.chunk.js.LICENSE.txt",
+    "static/media/1.509d4d79.jpg": "/static/media/1.509d4d79.jpg",
+    "static/media/2.bbb41348.jpg": "/static/media/2.bbb41348.jpg",
+    "static/media/5.46b37290.jpg": "/static/media/5.46b37290.jpg",
+    "static/media/6.c405c822.jpg": "/static/media/6.c405c822.jpg",
+    "static/media/8.9d1ddd2c.jpg": "/static/media/8.9d1ddd2c.jpg",
+    "static/media/Sanjuan.7c6ef38d.jpg": "/static/media/Sanjuan.7c6ef38d.jpg",
+    "static/media/night.ac6d287d.jpg": "/static/media/night.ac6d287d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ed5da37.js",
+    "static/js/2.379429bc.chunk.js",
+    "static/css/main.9c83f324.chunk.css",
+    "static/js/main.71c5e8af.chunk.js"
+  ]
+}
